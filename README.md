@@ -2,9 +2,8 @@
 
 # Threat Hunt Report: Unauthorized TOR Usage
 
-<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
-
 ### In this project, I simulated a threat hunting scenario involving the unauthorized installation and use of TOR browser in a fictional enterprise environment.
+
 ###### This project was done as part of [Josh Madakor's Cyber Range](http://joshmadakor.tech/cyber-range) program.
 
 ---
@@ -17,6 +16,8 @@
 > - [EDR Platform: Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint/)
 > - [Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/kusto/)
 > - [Tor Browser](https://www.torproject.org/)
+
+<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
 ---
 
