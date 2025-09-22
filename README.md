@@ -9,7 +9,7 @@
 ---
 
 ## Scenario Creation
-> To create the scenario for the threat hunt, I created a Windows 11 virtual machine in Microsoft Azure and onboarded it to Microsoft Defender for Endpoint. I then simulated the activities of a user taking unauthorized actions by downloaded TOR browser, installing it, and browsing to a few sites on the dark web. Finally, I created a text file where I noted down some fictional purchases made, then deleted the text file. Acting as a novice misbehaving user, I neglected to uninstall TOR browser or attempt to further cover my tracks.
+> To create the scenario for the threat hunt, I created a Windows 11 virtual machine in Microsoft Azure and onboarded it to Microsoft Defender for Endpoint. I then simulated the activities of a user taking unauthorized actions by downloading TOR browser, installing it, and browsing to a few sites on the dark web. Finally, I created a text file where I noted down some fictional purchases made, then deleted the text file. Acting as a novice misbehaving user, I neglected to uninstall TOR browser or attempt to further cover my tracks.
 
 ## Platforms and Languages Leveraged
 > - [Windows 11 Virtual Machines (Microsoft Azure)](https://azure.microsoft.com/en-us/)
