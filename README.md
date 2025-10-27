@@ -57,7 +57,7 @@ InScopeDeviceFileEvents
 ```
 <img width="1136" height="357" alt="image" src="https://github.com/user-attachments/assets/70d5b24a-0ed0-45ca-9ec8-b2fb1d247a9e" />
 
-> Because of this, a list of filters were added to the query to exclude results which included words containing strings which would not be an IoC, and the results were projected to make them easier to review.This revealed what appeared to be evidence that the user "jvmedr-james" downloaded a TOR installer, did something that resulted in many TOR-related files being copied to the desktop, and the creation of a file called `tor-shopping-list.txt` on the desktop at `2025-09-20T18:38:06.9046318Z`. These events began at `2025-09-20T18:29:37.1623729Z`.
+> Because of this, a list of filters were added to the query to exclude results which included words containing strings which would not be an IoC, and the results were projected to make them easier to review. This revealed what appeared to be evidence that the user "jvmedr-james" downloaded a TOR installer, did something that resulted in many TOR-related files being copied to the desktop, and the creation of a file called `tor-shopping-list.txt` on the desktop at `2025-09-20T18:38:06.9046318Z`. These events began at `2025-09-20T18:29:37.1623729Z`.
 ```kql
 let target_string_1 = "tor";
 let target_string_2 = "firefox";
